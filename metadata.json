@@ -1,0 +1,5 @@
+{
+  "name": "Ultraseven History",
+  "description": "An interactive web application that provides information about the history of the character Ultraseven using the Gemini API.",
+  "requestFramePermissions": []
+}
